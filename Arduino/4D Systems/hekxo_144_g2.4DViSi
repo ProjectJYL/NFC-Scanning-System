@@ -1,0 +1,175 @@
+﻿Version     0.0
+Platform    uLCD-144-G2-PR
+PlatRes     128x128
+Depends
+end
+Options
+    Visualizer
+    Speed                        9600
+    Checksum                     No
+    ResponseSize                 2
+    Multidrop                    No
+    Destination                  0
+    MainForm                     0
+    SndBuf                       0
+    ButtonDisable                No
+    SignedDigits                 No
+end
+Form
+    Name                         Form1
+    Alias                        Form1
+    Bgtype                       Color
+    Color                        BLACK
+    Image                        (None)
+    Source.Height                0
+    Source.Left                  0
+    Source.Top                   0
+    Source.Width                 0
+    OnActivate                   ''
+    OnCreate                     ''
+    OnRepeat                     ''
+    OnTouchMoving                ''
+    OnTouchPressed               ''
+    OnTouchReleased              ''
+end
+UserImages
+    Name                         Userimages1
+    Alias                        Userimages1
+    Height                       128
+    Images                       intro1_128.png\nintro2_128.png\nintro3_128.png\nintro4_128.png\nintro5_128.png\nintro6_128.png\nintro7_128.png\nintro8_128.png
+    Left                         0
+    Stretch                      No
+    Top                          0
+    Width                        128
+    OnChanged                    ''
+end
+UserImages
+    Name                         Userimages2
+    Alias                        Userimages2
+    Height                       128
+    Images                       'Abdominal bicycle.jpg\nAbdominal machine.jpg\nAccent chair.jpg\nAccent chair_1.jpg\nAcoustic guitar.jpg\nAero plane.jpg\nAlbatross.jpg\nAlligator.jpg\nAlmonds.jpg\nAmbulance.jpg\nAmbulance_1.jpg\nAnemone fish.jpg\nApple juice.jpg\nApple pie.jpg\nApple.jpg\nApple_v.jpg\nApricot.jpg\nArmchair.jpg\nArmor helmet.jpg\nArmy helmet.jpg\nAsparagus.jpg\nAtomizer.jpg\nAustralian Koala.jpg\nAvocados.jpg\nAvocados_v.jpg\nAward.jpg\nAward_1.jpg\nBaby frock.jpg\nBaby frock_1.jpg\nBaby frock_2.jpg\nBaby frock_3.jpg\nBaby frock_4.jpg\nBaby frock_5.jpg\nBaby frock_6.jpg\nBaby frock_7.jpg\nBackpack_2.jpg\nBackpack_3.jpg\nBackpack_4.jpg\nBagel.jpg\nBaked beans.jpg\nBaking sheet.jpg\nBalloon.jpg\nBanana sundae.jpg\nBanana.jpg\nBanana_v.jpg\nBanjo.jpg\nBaseball Cap.jpg\nBass drum.jpg\nBat.jpg\nBathroom sink.jpg\nBathroom sink_1.jpg\nBattery.jpg\nBeaker.jpg\nBeaker_1.jpg\nBeanbag.jpg\nBeanbag_1.jpg\nBeanie hat.jpg\nBear.jpg\nBear_v.jpg\nBed.jpg\nBell Peeper.jpg\nBelt.jpg\nBelt_1.jpg\nBelt_2.jpg\nBicycle.jpg\nBike lock.jpg\nBike.jpg\nBinder clips.jpg\nBird cage.jpg\nBison.jpg\nBlack beans.jpg\nBlack shoes.jpg\nBlack watch.jpg\nBlackbird.jpg\nBlue Cutter.jpg\nBlue watch.jpg\nBlue Whale.jpg\nBlueberry smoothie.jpg\nBongo drums.jpg\nBottle opener.jpg\nbowl of Fruit cereal.jpg\nBowl.jpg\nBowl_1.jpg\nBowl_2.jpg\nBowl_3.jpg\nBowl_4.jpg\nBowl_5.jpg\nBowl_6.jpg\nBowl_7.jpg\nBowler hat.jpg\nBowling ball.jpg\nBowling pins.jpg\nBread.jpg\nBriefcase.jpg\nBriefcase_1.jpg\nBroccoli.jpg\nBucket.jpg\nBucket_1.jpg\nBudgie.jpg\nBull dozer.jpg\nBunnies.jpg\nBurger.jpg\nBurger_1.jpg\nbus.jpg\nButterfly.jpg\nButterfly_1.jpg\nCabbage.jpg\nCalculator.jpg\nCamel.jpg\nCamel_1.jpg\nCan opener.jpg\nCanary.jpg\nCanary_1.jpg\nCanary_v.jpg\nCandy cane.jpg\nCandy cane_1.jpg\nCandy.jpg\nCandy_1.jpg\nCandy_2.jpg\nCantaloupe.jpg\nCantaloupe_v.jpg\nCanvas backpack.jpg\nCanvas backpack_1.jpg\nCanvas backpack_2.jpg\nCanvass Backpack.jpg\nCapri.jpg\nCapri_1.jpg\nCar.jpg\nCaravan.jpg\nCardinal.jpg\nCarrot.jpg\nCashew nuts.jpg\nCat.jpg\nCat_1.jpg\nCat_v.jpg\nCauliflower.jpg\nCello.jpg\nCeramic pottery.jpg\nChair.jpg\nChair_2.jpg\nChair_3.jpg\nChair_4.jpg\nChair_5.jpg\nChameleon.jpg\nChamomile flower.jpg\nCheese.jpg\nCheetah.jpg\nCheetah_1.jpg\nCherry cheesecake.jpg\nCherry.jpg\nCherry_v.jpg\nChicken soup.jpg\nChicken.jpg\nChimes.jpg\nChimpanzee.jpg\nChoco bar.jpg\nChocolate cake.jpg\nChocolate.jpg\nChocolates.jpg\nChopsticks.jpg\nChristmas ball.jpg\nCinnamon bun.jpg\nClamp band.jpg\nClarinet.jpg\nClock.jpg\nClothes pin.jpg\nCoaster.jpg\nCoconut.jpg\nCoconut_1.jpg\nCoffee maker.jpg\nCoffee table.jpg\nColander.jpg\nCold cream.jpg\nColored chalk.jpg\nColorful Lollipop.jpg\nCompass.jpg\nComputer.jpg\nConstruction helmet.jpg\nConstruction helmet_1.jpg\nConvertible.jpg\nCorkscrew.jpg\nCorn.jpg\nCorrection fluid.jpg\nCosmetic tube.jpg\nCosmetics  bag.jpg\nCouch.jpg\nCow.jpg\nCrab.jpg\nCrackers.jpg\nCranberries.jpg\nCrane.jpg\nCrane_1.jpg\nCrocodile.jpg\nCrocodile_1.jpg\nCrossbow.jpg\nCrow.jpg\nCrow_v.jpg\nCrown.jpg\nCrown_1.jpg\nCruise ship.jpg\nCucumber.jpg\ncup of tea.jpg\nCup.jpg\nCup_1.jpg\nCup_2.jpg\nCup_3.jpg\nCup_4.jpg\nCutting board.jpg\nCymbal.jpg\nDahlia Flower.jpg\nDeer.jpg\nDeer_1.jpg\nDeer_2.jpg\nDeer_v.jpg\nDelivery van.jpg\nDeodorant  bottles.jpg\nDetergent container.jpg\nDetergent container_1.jpg\nDigital clock.jpg\nDishwasher tablets.jpg\nDisposable Razors.jpg\nDog.jpg\nDog_1.jpg\nDollar bill.jpg\nDollar Coin.jpg\nDolphin.jpg\nDonkey.jpg\nDresser.jpg\nDresser_1.jpg\nDuck.jpg\nDuck_v.jpg\nDuckling.jpg\nDumbbell.jpg\nDuster with Chalk.jpg\nDustpan.jpg\nEagle.jpg\nEagle_v.jpg\nEarth.jpg\nEgg.jpg\nEggplant.jpg\nElectric Guitar.jpg\nElectric stove.jpg\nElectric stove_1.jpg\nElephant.jpg\nElephant_1.jpg\nElephant_2.jpg\nElephant_v.jpg\nEmpty bottle.jpg\nEraser.jpg\nExercise bench.jpg\nExercise Bicycle.jpg\nExercise Bike.jpg\nExercise cycle.jpg\nExercise Machine.jpg\nEye liner Pencil.jpg\nEye Shadow pack.jpg\nFace wash Tube.jpg\nFedora straw hat.jpg\nFelt tip pens.jpg\nFemale shoes.jpg\nFighter plane.jpg\nFilling Cabinet.jpg\nFilling Cabinet_1.jpg\nFilling Cabinet_2.jpg\nFire extinguisher.jpg\nFire extinguisher_1.jpg\nFire truck.jpg\nFireman helmet.jpg\nFireman helmet_1.jpg\nFishing hook.jpg\nFlamingo.jpg\nFlamingo_v.jpg\nFlip flops.jpg\nFlip flops_1.jpg\nFlip flops_2.jpg\nFlute.jpg\nFlute_1.jpg\nFoam pump bottle.jpg\nFolding chair.jpg\nFolding chair_1.jpg\nFolding chair_2.jpg\nFolding chair_3.jpg\nFolding chair_4.jpg\nFolding chair_5.jpg\nFootball helmet.jpg\nfork.jpg\nFork_1.jpg\nFork_2.jpg\nFountain Pen.jpg\nfowl.jpg\nFox.jpg\nFox_v.jpg\nFrench fries.jpg\nFrench horn.jpg\nFried bacon.jpg\nFried egg.jpg\nFrog.jpg\nFry pan.jpg\nFry pan_1.jpg\nFry pan_2.jpg\nFunnel.jpg\nFunnel_1.jpg\nFunnel_2.jpg\nFunnel_3.jpg\nFunnel_4.jpg\nGarlic.jpg\nGiant Panda.jpg\nGift box.jpg\nGift box_1.jpg\nGilt_head bream.jpg\nGiraffe.jpg\nGlass bottle.jpg\nGlass of water.jpg\nGlass of water_1.jpg\nGloves.jpg\nGoat.jpg\nGoggles.jpg\nGold cream bottle.jpg\nGold watch.jpg\nGold watch_1.jpg\nGold watch_2.jpg\nGolf ball.jpg\nGolf hat.jpg\nGolf hat_1.jpg\nGolf hat_2.jpg\nGong.jpg\nGorilla.jpg\nGrapes.jpg\nGrapes_v.jpg\nGraph Paper.jpg\nGrasshopper.jpg\nGreen vegetable salad.jpg\nGuard Rattle.jpg\nGuitar.jpg\nHair care Products.jpg\nHair gel bottles.jpg\nHalf Apple.jpg\nHalf banana.jpg\nHalf Cherry.jpg\nHalf Coconut.jpg\nHalf Kiwi.jpg\nHalf Lime.jpg\nHalf of pear.jpg\nHalf Pomegranate.jpg\nHammer.jpg\nHamster.jpg\nHand flexor.jpg\nHand wash bottles.jpg\nHandbag.jpg\nHandbag_1.jpg\nHanger.jpg\nHardhat.jpg\nHarmonica.jpg\nHarmonica_1.jpg\nHarp.jpg\nHat.jpg\nHelicopter.jpg\nHelmet.jpg\nHelmet_1.jpg\nHelmet_2.jpg\nHelmet_3.jpg\nHen.jpg\nHen_v.jpg\nHippopotamus.jpg\nHippopotamus_1.jpg\nHippopotamus_v.jpg\nHockey goalie mask.jpg\nHome entertainment center.jpg\nHoney jar.jpg\nHoneydew.jpg\nHorse.jpg\nHot dog.jpg\nHummingbird.jpg\nHummingbird_1.jpg\nHygiene Container.jpg\nIron.jpg\nJack fruit.jpg\nJacket.jpg\nJacket_1.jpg\nJar.jpg\nJug.jpg\nJug_1.jpg\nJug_2.jpg\nJug_3.jpg\nJug_4.jpg\nKangaroo.jpg\nKangaroo_1.jpg\nKangaroo_2.jpg\nKetchup.jpg\nKettle bell.jpg\nKid Chair.jpg\nKids bicycle.jpg\nKids bike helmet.jpg\nKingfisher.jpg\nKingfisher_v.jpg\nKitchen scale.jpg\nKitchen sink.jpg\nKite.jpg\nKiwis.jpg\nKiwis_v.jpg\nKnife and fork.jpg\nKnife.jpg\nKnife_1.jpg\nKoala.jpg\nLadybug.jpg\nLamb.jpg\nLaptop.jpg\nLaundry basket.jpg\nLeaf.jpg\nLeaf_1.jpg\nLeaf_2.jpg\nLeaf_3.jpg\nLeaf_4.jpg\nLeaf_5.jpg\nLeaf_6.jpg\nLeaf_7.jpg\nLemon tea.jpg\nLemon.jpg\nLettuce.jpg\nLight fixture.jpg\nLime.jpg\nLion.jpg\nLion_1.jpg\nLion_v.jpg\nLipstick and Nail Polish.jpg\nLipstick.jpg\nLipsticks.jpg\nLiquid soap bottle.jpg\nLobster.jpg\nLock Jar.jpg\nLollipop.jpg\nLollipop_1.jpg\nLollipop_2.jpg\nLollipop_3.jpg\nLollipop_4.jpg\nLollipop_5.jpg\nLollipop_6.jpg\nLorikeet.jpg\nMagnifying glass.jpg\nMakeup brush pouch.jpg\nMakeup brush.jpg\nMakeup Kit bag.jpg\nMakeup Kit.jpg\nMale Footwear.jpg\nMango.jpg\nMango_v.jpg\nManicure set.jpg\nMarlin.jpg\nMatchbox.jpg\nMeasuring cup.jpg\nMeasuring spoons.jpg\nMeatball.jpg\nMedical equipment toys.jpg\nMexican Taco.jpg\nMicroscope.jpg\nMicroscope_1.jpg\nMilk bottle.jpg\nMilk carton.jpg\nMilk.jpg\nMirror.jpg\nMirror_1.jpg\nMonkey.jpg\nMoorhen.jpg\nMortar and Pestle.jpg\nMortar and Pestle_1.jpg\nMortar and Pestle_2.jpg\nMortar and Pestle_3.jpg\nMotor boat.jpg\nMotor cycle.jpg\nMotorize Sports helmet.jpg\nMountain lion.jpg\nMug.jpg\nMushroom.jpg\nNachos.jpg\nNail polish.jpg\nNecktie.jpg\nNest.jpg\nNightstand.jpg\nNotepad.jpg\nOctopus.jpg\nOffice table.jpg\nOil bottle.jpg\nOld shuttlecock.jpg\nOmelet.jpg\nOnion rings.jpg\nOnions.jpg\nOrange.jpg\nOrange_v.jpg\nOstrich.jpg\nOstrich_1.jpg\nOstrich_v.jpg\nOutdoor equipment.jpg\nOutdoor equipment_1.jpg\nOutdoor equipment_2.jpg\nOutdoor equipment_3.jpg\nOven mitt.jpg\nOven.jpg\nOwl.jpg\nOwl_v.jpg\nPair of Boxing gloves.jpg\nPair of Tweezers.jpg\nPancakes.jpg\nPandora.jpg\nPant.jpg\nPapayas.jpg\nPapayas_v.jpg\nParakeet.jpg\nParty cap.jpg\nParty cap_1.jpg\nParty Glasses.jpg\nPasta with meatball.jpg\nPasta.jpg\nPeacock.jpg\nPear.jpg\nPeas.jpg\nPelican.jpg\nPelican_v.jpg\nPencil.jpg\nPenguin.jpg\nPerfume bottle.jpg\nPerfume bottle_1.jpg\nPiano.jpg\nPiano_1.jpg\nPiano_2.jpg\nPiano_3.jpg\nPiece of cheese.jpg\nPig.jpg\nPigeon.jpg\nPigeon_1.jpg\nPigeon_v.jpg\nPink Scissor.jpg\nPink Sneakers.jpg\nPitcher.jpg\nPizza.jpg\nPlastic bottle.jpg\nPlastic Container.jpg\nPlate.jpg\nPlate_1.jpg\nPlum.jpg\nPlunger.jpg\nPocket Watch.jpg\nPolar bear.jpg\nPolice car.jpg\nPomegranates.jpg\nPomegranates_v.jpg\nPorcupine.jpg\nPot holder.jpg\nPotato chips.jpg\nPotato.jpg\nPretzel.jpg\nPuffin.jpg\nPuffin_v.jpg\nPug dog.jpg\nQuad bike.jpg\nRabbit.jpg\nRaccoon.jpg\nRainbow.jpg\nRaspberry.jpg\nRaspberry_v.jpg\nRat.jpg\nRazor.jpg\nRed Bicycle.jpg\nRed Bow.jpg\nRed Radish.jpg\nRefrigerator.jpg\nRefrigerator_1.jpg\nResistance band.jpg\nRhino.jpg\nRing Binder.jpg\nRoast chicken.jpg\nRoller.jpg\nRubber gloves.jpg\nSafety rope.jpg\nSafety scissor.jpg\nSailboat.jpg\nSalad.jpg\nSalmon.jpg\nSalt and a pepper shaker.jpg\nSandwich.jpg\nSandwich_1.jpg\nSantas hat.jpg\nSaxophone.jpg\nSchool bus.jpg\nSchool bus_1.jpg\nScissor.jpg\nScooter.jpg\nSea horse.jpg\nSea lion.jpg\nSet of knives.jpg\nShampoo bottle.jpg\nShampoo bottle_1.jpg\nShark.jpg\nSheep.jpg\nShiny Sapphire.jpg\nShower.jpg\nShuttlecock.jpg\nSilver watch.jpg\nSilver watch_1.jpg\nSitting bench.jpg\nSitting bench_1.jpg\nSitting bench_2.jpg\nSitting bench_3.jpg\nSketch pens.jpg\nSki goggles.jpg\nSkin Cream.jpg\nSkunk.jpg\nSleeveless baby frock.jpg\nSlice of tangerine.jpg\nSnail.jpg\nSnake.jpg\nSnare drum.jpg\nSnare drums.jpg\nSnow cross.jpg\nSoap dish.jpg\nSocks.jpg\nSoda can.jpg\nSofa.jpg\nSofa_1.jpg\nSofa_2.jpg\nSpaghetti and meatballs.jpg\nSparrow.jpg\nSparrow_v.jpg\nSpatula.jpg\nSpice rack.jpg\nSpider.jpg\nSpinach.jpg\nSponge.jpg\nSpoon.jpg\nSpoon_1.jpg\nSpoon_2.jpg\nSport Shoes.jpg\nSports cap.jpg\nSports cap_1.jpg\nSpray bottle.jpg\nSpray bottle_1.jpg\nSpray bottle_2.jpg\nSpray bottle_3.jpg\nSpray bottle_4.jpg\nSpray bottle_5.jpg\nspring rolls.jpg\nSquirrel.jpg\nSquirrel_v.jpg\nStapler.jpg\nStarfish.jpg\nsteel Dumbbell.jpg\nStool.jpg\nStool_1.jpg\nStool_2.jpg\nStool_3.jpg\nStopwatch.jpg\nStrawberry milkshake.jpg\nStrawberry.jpg\nStrawberry_1.jpg\nstrawberry_v.jpg\nString.jpg\nStudy table.jpg\nSuitcase.jpg\nSuitcase_2.jpg\nSummer hat.jpg\nSummer hat_1.jpg\nSummer hat_2.jpg\nSummer hat_3.jpg\nSummer hat_4.jpg\nSummer hat_5.jpg\nSunglasses.jpg\nSunscreen Lotion.jpg\nSweet potato.jpg\nSynthesizer.jpg\nTable lamp.jpg\nTable lamp_1.jpg\nTable lamp_2.jpg\nTable tennis.jpg\nTable.jpg\nTambourine.jpg\nTambourine_1.jpg\nTangerine.jpg\ntea kettle.jpg\nTennis ball.jpg\nThermometer.jpg\nTiger.jpg\nTiger_1.jpg\nTiger_2.jpg\nTissue box.jpg\nTissues.jpg\nToasted bagels.jpg\nToaster.jpg\nToilet brush.jpg\nToilet paper.jpg\nToilet tissue.jpg\nTomato soup.jpg\nTomato.jpg\nToothpaste.jpg\nTorch.jpg\nTortilla.jpg\nTowel.jpg\nTowel_1.jpg\nTowel_2.jpg\nTowels.jpg\nTrain.jpg\nTrain_1.jpg\nTrash can.jpg\nTrashcan.jpg\nTreadmill.jpg\nTree.jpg\nTrombone.jpg\nTruck.jpg\nTrumpet.jpg\nTsetse fly.jpg\nTurkey.jpg\nUmbrella.jpg\nUmbrella_1.jpg\nUSB Pen Drive.jpg\nViolin.jpg\nVulture.jpg\nVulture_v.jpg\nWaffle.jpg\nWall clock.jpg\nWalrus.jpg\nWatch.jpg\nWatering can.jpg\nWatering can_1.jpg\nWatering can_2.jpg\nWatermelon.jpg\nWatermelon_1.jpg\nWatermelon_v.jpg\nWaterproof bag.jpg\nWeight plates.jpg\nWelding helmet.jpg\nWhale.jpg\nWhistle.jpg\nWhite clock.jpg\nWinter hat.jpg\nWinter hat_1.jpg\nWinter hat_2.jpg\nWinter hat_3.jpg\nWire whisk.jpg\nWire whisk_1.jpg\nWire whisk_2.jpg\nWolf.jpg\nWooden chair.jpg\nWooden chair_1.jpg\nWooden chair_2.jpg\nWooden chair_3.jpg\nWristwatch.jpg\nWristwatch_1.jpg\nWristwatch_2.jpg\nYacht.jpg\nZebra.jpg\nZebra_v.jpg\nZither.jpg\nZucchinis.jpg'
+    Left                         0
+    Stretch                      No
+    Top                          0
+    Width                        128
+    OnChanged                    ''
+end
+UserImages
+    Name                         Userimages3
+    Alias                        Userimages3
+    Height                       128
+    Images                       greatjob_01s.jpg\ngreatjob_02s.jpg\ngreatjob_03s.jpg\ngreatjob_04s.jpg\ngreatjob_05s.jpg
+    Left                         0
+    Stretch                      No
+    Top                          0
+    Width                        128
+    OnChanged                    ''
+end
+Video
+    Name                         Video1
+    Alias                        Video1
+    Frames.First                 0
+    Frames.Last                  119
+    Frames.FrameDelay            33
+    Height                       128
+    Left                         0
+    Source.Height                240
+    Source.Left                  0
+    Source.Top                   0
+    Source.Width                 240
+    Top                          0
+    Video                        Clock_final.wmv
+    Width                        128
+    OnChanged                    ''
+    OnTouchMoving                ''
+    OnTouchPressed               ''
+    OnTouchReleased              ''
+end
+UserImages
+    Name                         Userimages4
+    Alias                        Userimages4
+    Height                       128
+    Images                       NoImageFound.png
+    Left                         0
+    Stretch                      No
+    Top                          0
+    Width                        128
+    OnChanged                    ''
+end
+Video
+    Name                         Video2
+    Alias                        Video2
+    Frames.First                 0
+    Frames.Last                  98
+    Frames.FrameDelay            33
+    Height                       128
+    Left                         0
+    Source.Height                240
+    Source.Left                  0
+    Source.Top                   0
+    Source.Width                 240
+    Top                          0
+    Video                        Hexagon_with_a_ripple_radiating_from_it.wmv
+    Width                        128
+    OnChanged                    ''
+    OnTouchMoving                ''
+    OnTouchPressed               ''
+    OnTouchReleased              ''
+end
+Video
+    Name                         Video3
+    Alias                        Video3
+    Frames.First                 0
+    Frames.Last                  38
+    Frames.FrameDelay            42
+    Height                       128
+    Left                         0
+    Source.Height                240
+    Source.Left                  0
+    Source.Top                   0
+    Source.Width                 240
+    Top                          0
+    Video                        Great_1.wmv
+    Width                        128
+    OnChanged                    ''
+    OnTouchMoving                ''
+    OnTouchPressed               ''
+    OnTouchReleased              ''
+end
+Video
+    Name                         Video4
+    Alias                        Video4
+    Frames.First                 0
+    Frames.Last                  61
+    Frames.FrameDelay            33
+    Height                       128
+    Left                         0
+    Source.Height                240
+    Source.Left                  0
+    Source.Top                   0
+    Source.Width                 240
+    Top                          0
+    Video                        Try_again.wmv
+    Width                        128
+    OnChanged                    ''
+    OnTouchMoving                ''
+    OnTouchPressed               ''
+    OnTouchReleased              ''
+end
+Form
+    Name                         Form2
+    Alias                        Form2
+    Bgtype                       Color
+    Color                        BLACK
+    Image                        (None)
+    Source.Height                0
+    Source.Left                  0
+    Source.Top                   0
+    Source.Width                 0
+    OnActivate                   ''
+    OnCreate                     ''
+    OnRepeat                     ''
+    OnTouchMoving                ''
+    OnTouchPressed               ''
+    OnTouchReleased              ''
+end
